@@ -6,7 +6,7 @@ import LoginPage from "./pages/LogInPage.jsx";
 import NotificationsPage from "./pages/NotificationsPage.jsx";
 import CallPage from "./pages/CallPage.jsx";
 import ChatPage from "./pages/ChatPage.jsx";
-import OnboardingPage from "./pages/OnboardingPage.jsx";
+import OnboardingPage from "./pages/OnBoardingPage.jsx";
 
 import { Toaster } from "react-hot-toast";
 
